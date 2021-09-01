@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajendra Kujur
 - 👀 I’m interested in Machine Learning, Data Science field
-- 🌱 I’m currently learning Python Language
+- 🌱 I’m currently Masters in Data Science at IIT Guwahati
 - 💞️ I’m looking to collaborate on Small Projects based on C++
 - 📫 You can reach me out on rajendrakujur123@gmail.com
 
